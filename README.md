@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/deluayo" target="blank"><img src="https://img.shields.io/twitter/follow/deluayo?logo=twitter&style=for-the-badge" alt="deluayo" /></a> </p>
 
-- 🔭 I’m currently working on **creating a Tech Initiative with people**
+- 🔭 I’m currently working on **creating a Tech Initiative with the aim of improving the tech talent in people**
 
 - 🌱 I’m currently learning **Php, Javascript, Laravel, and expanding on my other skills**
 
