@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Adeluola Ayomide David</h1>
-<h3 align="center">A passionate --Junior Frontend Developer | HTML | CSS | BootStrap Framework | PHP & Laravel | Version Control(Git) | Canva Designer| Self Improvement and Development through tasks and volunteering from Lagos, Nigeria.</h3>
+<h3 align="center">A passionate Junior Frontend Developer | HTML | CSS | BootStrap Framework | PHP & Laravel | Version Control(Git) | Canva Designer| Self Improvement and Development through tasks and volunteering from Lagos, Nigeria.</h3>
 
 ![giphy](https://github.com/8mileverse/8mileverse/assets/102674779/b46cb93f-e9ba-4786-acd8-fc105862af91)
 
