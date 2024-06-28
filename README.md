@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Adeluola Ayomide David</h1>
-<h3 align="center"> Junior Frontend Developer | HTML | CSS | BootStrap Framework | PHP & Laravel | Version Control(Git) | Canva Designer| Self Improvement and Development through tasks and volunteering from Lagos, Nigeria.</h3>
+<h3 align="center"> Junior Frontend Developer | HTML | CSS | JAVASCRIPT| BootStrap Framework | PHP & Laravel | Version Control(Git) | Canva Designer| Self Improvement and Development through tasks and volunteering from Lagos, Nigeria.</h3>
 
 ![giphy](https://github.com/8mileverse/8mileverse/assets/102674779/b46cb93f-e9ba-4786-acd8-fc105862af91)
 ![giphy (1)](https://github.com/8mileverse/8mileverse/assets/102674779/122b5025-c714-41ea-8613-66340c071b63)
@@ -14,11 +14,11 @@
 
 <p align="left"> <a href="https://twitter.com/deluayo" target="blank"><img src="https://img.shields.io/twitter/follow/deluayo?logo=twitter&style=for-the-badge" alt="deluayo" /></a> </p>
 
-- 🔭 I’m currently working on **creating a Tech Initiative with the aim of improving the tech talent in people**
+- 🔭 I’m currently working to align myself with the potential of being a fullstack developer (M.E.R.N)**
 
-- 🌱 I’m currently learning **Php, Javascript, Laravel, and expanding on my other skills**
+- 🌱 I’m currently learning **Php, Javascript, Node js,Mongo DB, React, Express and expanding on my other skills**
 
-- 💬 Ask me about **HTML, CSS, BOOTSTRAP, PHP**
+- 💬 Ask me about **HTML, CSS, BOOTSTRAP, PHP, JAVASCRIPT**
 
 - 📫 How to reach me **Ayodelu4@gmail.com**
 
