@@ -1,5 +1,5 @@
 
-![mohammad-rahmani-1bNQVGzuy0U-unsplash](https://github.com/8mileverse/8mileverse/assets/102674779/960d54ae-aa53-4b8a-8c4e-1835adea6ace)
+
 
 
 
